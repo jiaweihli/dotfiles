@@ -8,8 +8,8 @@ endif
 set nocompatible
 
 set t_Co=256
-"colorscheme zenburn
-colorscheme blackboard
+colorscheme zenburn
+"colorscheme blackboard
 
 set backspace=indent,eol,start
 
