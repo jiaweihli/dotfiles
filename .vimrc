@@ -76,10 +76,11 @@ endif
 set hidden
 
 set nowrap
-set tabstop=4
+set tabstop=2
 set backspace=eol,indent,start
 set number
-set shiftwidth=4
+set shiftwidth=2
+set expandtab
 set shiftround
 set showmatch
 set ignorecase
